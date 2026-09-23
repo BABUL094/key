@@ -42,6 +42,13 @@
       "isBanned": false,
       "banReason": "",
       "userRank": "Supreme User"
+    },
+    "DPMods-D702YR": {
+      "hwid": "RESET",
+      "expireDate": "2026-10-23",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
     }
   }
 }
