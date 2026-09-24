@@ -54,6 +54,13 @@
       "isBanned": false,
       "banReason": "",
       "userRank": "Supreme User"
+    },
+    "DPMods-REHL80": {
+      "hwid": "2ADCF0771573E49A",
+      "expireDate": "2026-10-31",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
     }
   }
 }
